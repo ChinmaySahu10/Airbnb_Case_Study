@@ -2,6 +2,14 @@
 
 This case study involves presenting a story through vizualizing trends & insights derived from given dataset. The dataset used for this analysis contains information about various attributes of properties available.
 
+## Table of Contents:
+* [Problem Statement](#problem-statement)
+* [Dataset](#dataset)
+* [Business Objective](#business-objective)
+* [Approach](#approach)
+* [Results and Conclusions](#results-and-conclusions)
+* [Contact](#contact)
+
 ### Problem Statement
 Different Leaders at Airbnb wants to understand some important insights based on various attributes in the dataset so as to increase the revenue for post Covid-19 travelling season.
 The objective was to prepare for the next best steps that Airbnb needs to take as a business. Based on this analysis, two presentations was to be made for the following groups.
@@ -38,6 +46,6 @@ Later this cleaned dataset was imported to a CSV file for vizulation in Tableau 
 - New acquisitions can be explored to acquire ‘private rooms’ in Manhattan and Brooklyn and ‘entire homes’ in Bronx and Queens.
 - Increasing acquisitions and new properties in coastal regions can increase customer bookings.
 
-### Contributors<br>
+### Contact<br>
 Chinmay Kumar Sahu<br>
 chinmaysahu10@gmail.com
