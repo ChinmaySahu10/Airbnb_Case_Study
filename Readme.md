@@ -1,43 +1,42 @@
-## Lead Conversion Prediction Project
+## Airbnb Case Study
 
-This project involves building a logistic regression model to predict the probability of lead conversion for a business. The dataset used for this analysis contains information about various attributes of leads and their interactions with the business's website.
+This case study involves presenting a story through vizualizing trends & insights derived from given dataset. The dataset used for this analysis contains information about various attributes of properties availble.
 
 ### Problem Statement
-The company's lead conversion rate is currently suboptimal, and there is a need to develop a predictive model that can assign lead scores based on the probability of conversion. The ultimate goal is to improve the conversion rate and prioritize leads with higher potential for conversion.
+Different Leaders at Airbnb wants to understand some important insights based on various attributes in the dataset so as to increase the revenue for post Covid-19 travelling season.
+The objective was to prepare for the next best steps that Airbnb needs to take as a business. Based on this analysis, two presentations was to be made for the following groups.
+Presentation - I
+Data Analysis Managers & Lead Data Analyst
+
+Presentation - II
+Head of Acquisitions and Operations, NYC & Head of User Experience, NYC
 
 ### Dataset
-The dataset used for this project includes information about leads, including their source, engagement on the website, occupation, and other relevant attributes. It also includes the binary outcome variable "Converted," indicating whether a lead converted or not.
+The dataset used for this project includes information about properties avialable, including their price, location, neighbourhod and other relevant attributes.
 
 ### Business Objective
-The primary objective of this analysis is to build a logistic regression model that can predict the likelihood of a lead converting into a customer. By identifying the key factors that influence conversion probability, the company can focus its efforts on high-potential leads and tailor its marketing strategies accordingly.
+The primary objective of this case study is to dervie insights & important features which contributes to maximum engagment of host & customers. By identifying the key factors, the company can focus its efforts on high-potential loactions and tailor its marketing strategies accordingly.
 
 ## Approach
-The analysis begins with exploratory data analysis (EDA) to understand the distribution of variables, identify patterns, and assess the relationship between features and the target variable. Data cleaning and preprocessing are performed, including handling missing values, encoding categorical variables, and scaling numeric features.
+The analysis begins with exploratory data analysis (EDA) to understand the distribution of variables, identify patterns, and assess the relationship between features and the target variable. Data cleaning and preprocessing are performed including handling missing values.
 
-Feature selection is carried out using various techniques, including coefficient analysis and recursive feature elimination (RFE), to identify the most influential variables for predicting lead conversion.
-
-The logistic regression model is then built using the selected features, and its performance is evaluated using metrics such as accuracy, precision, recall, and the receiver operating characteristic (ROC) curve.
+Later this cleaned dataset was imported to a CSV file for vizulation in Tableau Public 2023.1. Subsequently, features selected by cleaning data are put to various graphs to finally reach the conclusion of sunstantial features.
 
 ### Results and Conclusions
-The logistic regression model demonstrates strong predictive performance in identifying leads with a higher likelihood of conversion. The top features contributing to lead conversion include `Total Time Spent on Website`, `Lead Source_Welingak website`, `Lead Source_Reference`, `Last Activity_Email Opened`, and `Last Activity_SMS Sent`.
 
-The insights gained from this analysis can guide the company's lead management strategy by focusing on leads with higher predicted conversion probabilities. This targeted approach can lead to increased conversion rates, efficient resource allocation, and improved overall sales performance.
-
-### Repository Structure
-<ul>
-    <li>data: Contains the dataset used for the analysis.</li>
-    <li>notebooks: Jupyter notebooks used for data preprocessing, feature selection, model building, and evaluation.</li>
-    <li>README.md: This file providing an overview of the project.</li>
-</ul>
-
-### Instructions
-To replicate the analysis and model building, follow these steps:
-<ul>
-    <li>Clone the repository to your local machine.</li>
-    <li>Install the required dependencies by running pip install -r requirements.txt.</li>
-    <li>Open the Jupyter notebooks in the notebooks directory and execute the cells sequentially.</li>
-</ul>
+- Bronx & Staten Island has costal region which could be leveraged for more traction of customers
+- To generate more revenue Entire Home/apt type should be focused as it has more traction as well good pricing. More offers & services would attract customers.
+- Brooklyn has an median price of $90.  As there are already many listings available in Manhattan, Brooklyn can be considered for expansion.
+- Average availability of listings in Manhattan Brooklyn is comparatively less than other groups with higher pricing. These areas could be targeted to acquire more properties.
+- Shared rooms are frequently available with having less price for accommodation. Listing of shared room to be decreased as the revenue generated would be less
+- Also upon values missing in last_review and reviews_per_month carrying NaN values on purpose, meaning they are not missing at random as these hosted sites/places have not received any reviews from the customers. Hence, these places would be least preferred by the future customers and would also be facing bad business from our side.
+- As proportion of shared rooms is substantially low these could be targeted with discounts to increase bookings or can be looked into to be converted to other types.
+- Weekly or bi-weekly rentals can also be acquired, as these can be used customers stranded in NYC for quarantine purposes.
+- More number of hosts & listings with monthly rental duration (30-60-90) can be acquired. We see a good potential in the 30-day rental window. Manhattan & Brooklyn have higher number of 30-day bookings compared to the others; these areas can be further targeted.
+- New acquisitions and expansion can be done in the price range of $50 -$200 as it satisfies both parameters of volume of customer traffic and customer satisfaction.
+- New acquisitions can be explored to acquire ‘private rooms’ in Manhattan and Brooklyn and ‘entire homes’ in Bronx and Queens.
+- Increasing acquisitions and new properties in coastal regions can increase customer bookings.
 
 ### Contributors<br>
-Gorachanda Dash<br>
-gorachanddash6121@gmail.com
+Chinmay Kumar Sahu<br>
+chinmaysahu10@gmail.com
