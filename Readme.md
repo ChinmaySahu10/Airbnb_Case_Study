@@ -7,6 +7,7 @@ This case study involves presenting a story through vizualizing trends & insight
 * [Dataset](#dataset)
 * [Business Objective](#business-objective)
 * [Approach](#approach)
+* [Vizualization](#vizualization)
 * [Results and Conclusions](#results-and-conclusions)
 * [Contact](#contact)
 
@@ -30,6 +31,11 @@ The primary objective of this case study is to dervie insights & important featu
 The analysis begins with exploratory data analysis (EDA) to understand the distribution of variables, identify patterns, and assess the relationship between features and the target variable. Data cleaning and preprocessing are performed including handling missing values.
 
 Later this cleaned dataset was imported to a CSV file for vizulation in Tableau Public 2023.1. Subsequently, features selected by cleaning data are put to various graphs to finally reach the conclusion of sunstantial features.
+
+## Vizualization
+
+Please visit the link to find the vizualization done onthe final dataset. [Click Here]([https://github.com/ChinmaySahu10](https://public.tableau.com/app/profile/chinmay.kumar.sahu2740/viz/ABNDraft-1/ReviewsvsNG)) 
+
 
 ### Results and Conclusions
 
