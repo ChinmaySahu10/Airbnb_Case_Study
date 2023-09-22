@@ -35,7 +35,7 @@ Later this cleaned dataset was imported to a CSV file for vizulation in Tableau 
 ## Vizualization
 
 Please visit the link to find the vizualization done onthe final dataset.
-[GitHub](https://github.com/ChinmaySahu10](https://public.tableau.com/app/profile/chinmay.kumar.sahu2740/viz/ABNDraft-1/ReviewsvsNG)) 
+[Click Here](https://public.tableau.com/app/profile/chinmay.kumar.sahu2740/viz/ABNDraft-1/ReviewsvsNG) 
 
 ### Results and Conclusions
 
