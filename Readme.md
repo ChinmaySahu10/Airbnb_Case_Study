@@ -47,5 +47,9 @@ Later this cleaned dataset was imported to a CSV file for vizulation in Tableau 
 - Increasing `acquisitions and new properties in coastal regions` can increase customer bookings.
 
 ### Contact<br>
-Chinmay Kumar Sahu<br>
-chinmaysahu10@gmail.com
+   
+[GitHub](https://github.com/ChinmaySahu10) 
+  
+[LinkedIn](https://www.linkedin.com/in/chinmaysahu7/)
+  
+Email : chinmay11sahu@gmail.com
