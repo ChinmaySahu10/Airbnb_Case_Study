@@ -1,6 +1,6 @@
 ## Airbnb Case Study
 
-This case study involves presenting a story through vizualizing trends & insights derived from given dataset. The dataset used for this analysis contains information about various attributes of properties availble.
+This case study involves presenting a story through vizualizing trends & insights derived from given dataset. The dataset used for this analysis contains information about various attributes of properties available.
 
 ### Problem Statement
 Different Leaders at Airbnb wants to understand some important insights based on various attributes in the dataset so as to increase the revenue for post Covid-19 travelling season.
